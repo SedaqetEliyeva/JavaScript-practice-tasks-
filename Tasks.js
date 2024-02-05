@@ -1,5 +1,4 @@
-const number=5;
-let number2=number**2;
-let number3=number**3;
-console.log("the square of the number:", number2) 
-console.log("the cube of a number:", number3)
+const v=60/3.6;//--In the international system
+const S=180*1000;//--In the international system
+const t=(S/v)/60;//--minute
+console.log(t, "minute")
