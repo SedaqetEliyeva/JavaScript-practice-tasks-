@@ -1,4 +1,4 @@
-const number=1000;
+const number=92;
 
 for(let i=0; i<=1000; i++){
     let s= number-(number%10)
