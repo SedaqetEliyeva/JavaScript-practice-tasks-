@@ -4,5 +4,5 @@ if(number%2){
     console.log("tek");
 }
 else{
-    console.log("cut")
+    console.log("cut");
 }
