@@ -1,6 +1,6 @@
-var name="Sadaqat";
+const name="Sadaqat";
 let sourname="Aliyeva";
-const old="19";
+var old="19";
 
 let full=name + " " + sourname + " " + old;
 
