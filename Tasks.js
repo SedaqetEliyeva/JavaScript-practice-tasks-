@@ -3,7 +3,8 @@ const str="Sadaqat";//string
 const isStudent=true;//boolean
 const isEmpty=null;//nul
 const isDefined=undefined;//undefined
-console.log(isStudent)
+
+console.log(isStudent);
 
 //!!--as it is
 //!--the opposite
