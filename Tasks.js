@@ -1,3 +1,3 @@
-for(let i=0; i<10; i++){
-    console.log("Hello Wold");
+while(true){
+    console.log("Hello World");
 }
