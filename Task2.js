@@ -1,4 +1,5 @@
-const str="5";
-const number=5;
+const str="15.7";
 
-console.log(str===number)
+console.log(parseInt(str));
+
+console.log(parseFloat(str));

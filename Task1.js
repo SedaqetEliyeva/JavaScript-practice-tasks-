@@ -1,4 +1,4 @@
-const str="5";
-const number=5;
+const str="15";
 
-console.log(str==number);
+console.log(+str);
+console.log(Number(str));
