@@ -1,10 +1,6 @@
-console.log("Mobile Developer");
-console.log("Web Developer");
-console.log("Frontend Developer");
-console.log("Backend Developer");
-console.log("Stack Developer");
-console.log(".Net Developer");
-console.log("Full-stack Developer");
-console.log("... Developer");
-console.log(" ");
-console.log("...");
+let result=" ";
+
+for(let i=0; i<5; i++){
+    result=result+"x";
+    console.log(result);
+}
