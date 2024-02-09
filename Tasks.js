@@ -7,7 +7,7 @@ for(let i=0; i<5; i++){
 
 
 for(let i=5; i>0; i--){
-    result=" "
+    result=" ";
     for(let j=0; j<i; j++){
         result=result+"x";
     }
