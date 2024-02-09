@@ -1,6 +1,4 @@
-let number=0;
+const str="5";
+const number=5;
 
-while(number<10){
-    number++;
-    console.log("Hello World");
-}
+console.log(str===number)

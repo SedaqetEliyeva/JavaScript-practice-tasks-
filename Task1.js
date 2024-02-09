@@ -1,3 +1,4 @@
-for(let i=0; i<10; i++){
-    console.log("Hello Wold");
-}
+const str="5";
+const number=5;
+
+console.log(str==number);
