@@ -13,3 +13,6 @@ for(let i=5; i>0; i--){
     }
     console.log(result);
 }
+
+//i++ = ++i = i+1
+//i-- = --i = i-1
